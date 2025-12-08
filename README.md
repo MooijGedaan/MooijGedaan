@@ -2,7 +2,7 @@
 
 I'm a Technical Consultant / Java Developer based in Nijmegen. Most of my days are spent developing for **CBR** (The Dutch Driving License Authority).
 
-- ☕ The company I work for is [GX Software](https://www.gxsoftware.com/) (city: Nijmegen), part of [Happy Horizon](https://happyhorizon.com/)
+- ☕ The company I work for is **[GX Software](https://www.gxsoftware.com/)** (city: Nijmegen), part of [Happy Horizon](https://happyhorizon.com/)
 - 🔭 My current passion project is **[Advent of Code](https://github.com/MooijGedaan/AdventOfCode.git)**
 - 📖 I’m reading **Effective Java** by Joshua Bloch
 
