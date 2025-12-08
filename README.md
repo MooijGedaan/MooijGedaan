@@ -2,7 +2,7 @@
 
 I'm a Technical Consultant / Java Developer based in Nijmegen. Most of my days are spent developing for **CBR** (The Dutch Driving License Authority).
 
-- 🔭 I’m currently working on my **[Advent of Code](https://github.com/MooijGedaan/AdventOfCode.git)**
+- 🔭 I’m currently working on **[Advent of Code](https://github.com/MooijGedaan/AdventOfCode.git)**
 - 📖 I’m currently reading **Effective Java** by Joshua Bloch
 
 ---
