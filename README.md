@@ -22,7 +22,7 @@ I'm a Technical Consultant / Java Developer based in Nijmegen. Most of my days a
 ---
 
 ### 🎓 Background
-* 🎓 **Bachelor Computing Science** @ Radboud University (2022 - 2015)
+* 🎓 **Bachelor Computing Science** @ Radboud University (2022 - 2025)
 * 📜 **Propedeuse HBO ICT** @ Windesheim (2021 - 2022)
 
 ---
