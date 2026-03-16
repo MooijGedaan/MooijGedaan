@@ -28,5 +28,6 @@ I'm a Technical Consultant / Java Developer based in Nijmegen. Most of my days a
 ---
 
 ### 📫 Connect with me
+* [Personal Website](https://www.daan-mooij.nl)
 * [LinkedIn](https://www.linkedin.com/in/daan-mooij/)
 * 📧 [contact@daan-mooij.nl](mailto:contact@daan-mooij.nl)
